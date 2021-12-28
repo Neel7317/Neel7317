@@ -60,11 +60,11 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel7317&show_icons=true&locale=en&layout=compact" alt="neel7317" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel7317&theme=outrun&show_icons=true&locale=en&layout=compact" alt="neel7317" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel7317&show_icons=true&locale=en" alt="neel7317" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel7317&theme=outrun&show_icons=true&locale=en" alt="neel7317" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel7317" alt="neel7317" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel7317&theme=outrun" alt="neel7317" /></p>
 
 
 
