@@ -66,6 +66,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel7317&theme=outrun" alt="neel7317" /></p>
 
+<p><img align="center" src="https://wakatime.com/share/@331fb487-023e-4333-ab0b-e842d25e79bf/e5284e2d-dd5b-45ad-a5f5-aded041a16c1.svg"/></p>
+
 
 
 <!---
