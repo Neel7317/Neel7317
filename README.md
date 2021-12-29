@@ -66,6 +66,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel7317&theme=outrun" alt="neel7317" /></p>
 
+📊 **weekly development breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 HTML        10 mins         ███████████████████▒░░░░░   77.57 % 
