@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **convert Neuron signal to digital signals**
 
-- 🤝 I’m looking for help with **Neurologist**
+- 🤝 I’m looking for help from **Neurologist**
 
 - 💬 Ask me about **anything releated with AI**
 
