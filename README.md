@@ -71,7 +71,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   46 mins         █████████████████████████   100.00 %
+Python   46 mins         ██████████████████▒░░░░░░   73.49 %
+YAML     16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
 ```
 
 <!--END_SECTION:waka-->
