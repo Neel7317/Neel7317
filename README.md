@@ -71,11 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     39 mins         █████████████▓░░░░░░░░░░░   55.08 %
-Docker     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Markdown   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-HTML       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
